@@ -3,4 +3,5 @@
 -----------------------------------------------------------------------------------------------
 Lista de Exercícios:
 
-![1° Lista]()
+![1° Lista](https://github.com/alessandropequeno/PPGEEC-Deep-Learning-UFRN/blob/main/lista%20de%20deep%20learning.pdf)
+![Questão_10 - Link Google Colab]()
